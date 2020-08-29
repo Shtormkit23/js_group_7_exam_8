@@ -1,0 +1,25 @@
+.nav-links{
+    display: flex;
+    list-style: none;
+    margin-top: 20px;
+}
+
+.nav-links li{
+    list-style: none;
+    text-decoration: none;
+    margin-left: 35px;
+    color: SaddleBrown;
+}
+
+.nav-links a {
+    text-decoration: none;
+    font-size: 35px;
+    text-transform: uppercase;
+    color: inherit;
+}
+
+.nav-links:active{
+    color: FireBrick;
+}
+
+
